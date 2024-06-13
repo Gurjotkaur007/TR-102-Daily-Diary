@@ -1,6 +1,6 @@
 # Daily Diary (WEEK-1)
 
-## D-5 : 11th June 2024
+## D-6 : 12th June 2024
 
 - Conditional Statement
   - If Statement
