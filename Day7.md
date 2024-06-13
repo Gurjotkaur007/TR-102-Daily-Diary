@@ -2,14 +2,13 @@
 
 ## D-7 : 13th June 2024
 
-- Python Functions
-  - Types of Funtion 
-  - Lambda Function
-  - Recursive functions
-  - Function Arguments
-     - Positional Arguments
-     - Keywors Arguments
-     - Default Arguments
-     - Variable-length Arguments 
-- Dictionary Comprehension
-- List Comprehension
+ _Object Oriented Programming_
+ - OOP Basics
+  - Class and Object
+  - Reference Variable Creation
+  - Constructor & Self - Introduction
+     - Parameterless Constructor
+     - Parameterized Constructor
+  - Method Accessing Attributes
+  - Invoking Methods
+  - Identify Invoking Object 
