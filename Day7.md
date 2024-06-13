@@ -13,5 +13,4 @@
   - Invoking Methods
   - Identify Invoking Object 
 
-# work done : [OOP(13_6).ipynb
-](https://github.com/Gurjotkaur007/TR-102-Daily-Diary/blob/56324c88a78f56326431681848ddae93216ca8e3/OOP(13_6).ipynb)
+# work done : (https://github.com/Gurjotkaur007/TR-102-Daily-Diary/blob/56324c88a78f56326431681848ddae93216ca8e3/OOP(13_6).ipynb)
