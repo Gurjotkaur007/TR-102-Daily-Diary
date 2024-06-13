@@ -2,14 +2,14 @@
 
 ## D-6 : 12th June 2024
 
-- Conditional Statement
-  - If Statement
-  - If Else Statement
-  - if Elif Statement
-  - Nested If
-- Control Statements 
-  - For Loops
-  - While Loops
-  - Break
-  - Continue
-  - Pass
+- Python Functions
+  - Types of Funtion 
+  - Lambda Function
+  - Recursive functions
+  - Function Arguments
+     - Positional Arguments
+     - Keywors Arguments
+     - Default Arguments
+     - Variable-length Arguments 
+- Dictionary Comprehension
+- List Comprehension
