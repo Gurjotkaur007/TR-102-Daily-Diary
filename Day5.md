@@ -2,7 +2,7 @@
 
 ## D-5 : 11th June 2024
 
-- Conditional Statement
+- Conditional Statements
   - If Statement
   - If Else Statement
   - if Elif Statement
