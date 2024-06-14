@@ -2,5 +2,5 @@
 
 ## D-8 : 14th June 2024
 
- _Prctice Questions :_
+- Did some Practice questions
 ## Work Done :
