@@ -9,7 +9,5 @@
     - File Operations
   - Modules
      - Random Module 
-     - Math Module
-     - Datetime Module
    
   ## Work Done : https://colab.research.google.com/drive/1oNJzgLRzpk7MAZHBjEKGv4akSgevwPkf?usp=sharing
