@@ -18,5 +18,5 @@
    - write text on image
    - split and merge channel
    - convert image to hsv
-   -thresolding
+   - thresolding
  ## Worksheet : https://colab.research.google.com/drive/1JNoBc9BUI-kpU8yznvVxDTT-SDyKqF0_?usp=sharing
