@@ -1,11 +1,16 @@
 # Daily Diary (WEEK-3)
 
-## D-20 : 25th June 2024
+## D-18 : 26th June 2024
 
-### Library :   
- - Pandas
-     - Setting an Index
-     - Missing Values
-     - Grouping
-     - Custom Functions
-     - Reading dataset using pandas
+### RNN :   
+ - Basic RNN Architecture
+ - Type of RNN :
+     - Long Short-Term Memory (LSTM) Networks
+ - Sequence Modeling and Time Series Analysis
+ - Text Preprocessing and Word Embeddings
+ - Language Modeling and Sentiment Analysis
+ - Named Entity Recognition (NER) and Part-of-Speech (POS) Tagging
+ - Sequence-to-Sequence Models and Machine Translation
+ ### NLP :
+   - Basic Introduction
+ ## Work Done : 
