@@ -1,14 +1,13 @@
 # Daily Diary (WEEK-2)
 
-## D-15 : 22th June 2024
+## D-14 : 21st June 2024
 
-### CNN :   
- - Introduction on CNN
- - Convolutional Layer 
- - Pooling Layer
-     - Max Pooling
-     - Average Pooling
-     - Sum Pooling 
- - Fully connected layers (dense layers)
- - Image classification with CNN
-## Work Done : 
+### ANN :   
+ - AI and its applications
+ - Introduction to ANN 
+ - Perceptron and activation functions
+ - Backpropagation algorithm
+ - Building a basic feedforward neural network
+ - Model training and evaluation
+## Work Done : https://colab.research.google.com/drive/1u09Vc0Liig9e8lBkHDO5kiAPXVbDpJ6C?usp=sharing
+
